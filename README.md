@@ -10,5 +10,5 @@
 - 💬 Ask me about ... soft Skills.
 - 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/belal-mohamed-ali)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... A Data Nerd whose common name is Archmedes 
 
