@@ -1,4 +1,4 @@
-## Hey, [Belal here!]
+## Hey, Hello World
 
 <h1>Welcome to my humble Github ..</h1> 
 
@@ -14,6 +14,7 @@
 * Data Science
 * SQL 
 
+* {{ COMMITS }}
 
 
 - 🔭 I’m currently working on an R Project. 
