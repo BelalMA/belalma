@@ -14,8 +14,6 @@
 * Data Science
 * SQL 
 
-* {{ COMMITS }}
-
 
 - 🔭 I’m currently working on an R Project. 
 - 🌱 I’m currently learning R and Python 
